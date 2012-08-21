@@ -1,11 +1,9 @@
 # This is the version of this source code.
 
-manual_verstr = "1.5.1"
+manual_verstr = "1.6"
 
 
-
-auto_build_num = "211"
-
+auto_build_num = "212"
 
 
 verstr = manual_verstr + "." + auto_build_num
